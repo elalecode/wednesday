@@ -131,3 +131,5 @@ dmypy.json
 # Project ignore
 photos
 faces
+find
+model
